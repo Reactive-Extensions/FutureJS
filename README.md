@@ -6,10 +6,13 @@ This is the presentation given by Rx Team member [Matthew Podwysocki](http://twi
 ## Demos ##
 - Alphabet Invasion [Code](https://github.com/reactive-extensions/FutureJS/tree/master/demos/alphabetinvasion)
 - Drag and Drop [Code](https://github.com/reactive-extensions/FutureJS/tree/master/demos/dragndrop)
+- Follow the Mouse 1 [Code](https://github.com/reactive-extensions/FutureJS/tree/master/demos/mouse1)
+- Follow the Mouse 2 [Code](https://github.com/reactive-extensions/FutureJS/tree/master/demos/mouse2)
+- Follow the Mouse 3 [Code](https://github.com/reactive-extensions/FutureJS/tree/master/demos/mouse3)
 - React RxJS Autocomplete [Code](https://github.com/eliseumds/react-autocomplete)
 - React RxJS TODO MVC [Code](https://github.com/fdecampredon/react-rxjs-todomvc)
-- Ninya.io [Code](https://github.com/PascalPrecht/StackWho) [Site](http://stackwho.herokuapp.com/)
-- Reactive Trader [Code](https://github.com/AdaptiveConsulting/ReactiveTrader) [Site](https://github.com/AdaptiveConsulting/ReactiveTrader)
+- Ninya.io [Code](https://github.com/PascalPrecht/StackWho) | [Site](http://stackwho.herokuapp.com/)
+- Reactive Trader [Code](https://github.com/AdaptiveConsulting/ReactiveTrader) | [Site](https://github.com/AdaptiveConsulting/ReactiveTrader)
 
 ## Resources ##
 
