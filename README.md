@@ -20,7 +20,7 @@ This is the presentation given by Rx Team member [Matthew Podwysocki](http://twi
 - [RxJS Bindings for Angular](http://github.com/reactive-extensions/rx.angular.js)
 - [Twitter - ReactiveX](http://twitter.com/ReactiveX)
 - [Reactive Manifesto](http://reactivemanifesto.org)
-- Reactive Streams [Repository](http://www.reactive-streams.org/) [Site](http://reactive-streams.org)
+- Reactive Streams [Repository](http://www.reactive-streams.org/) | [Site](http://reactive-streams.org)
 - [WHATWG Streams](https://github.com/whatwg/streams)
 - [Reactive-Dart](https://github.com/financeCoding/Reactive-Dart)
 - [Dart - Introducing the new Streams API](http://news.dartlang.org/2012/11/introducing-new-streams-api.html)
